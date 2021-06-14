@@ -112,13 +112,6 @@ namespace nunitframework.Tests
             driver.Url = "https://www.amazon.in/";
 
         }
-        [Test]
-        public void TestMethod2()
-        {
-            driver.Url = "https://touch.facebook.com/?_rdr";
 
-        }
-
-
-    }
+     }
 }
